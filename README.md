@@ -20,4 +20,4 @@ For model selection, we chose the Naïve Bayes classifier, which is well-suited 
 
 The results showed that the model effectively distinguishes spam from non-spam messages. This approach can be extended to other text classification tasks, such as sentiment analysis and fake news detection.
 
-OUTPUT:
+OUTPUT:![Image](https://github.com/user-attachments/assets/ce554aa7-7f75-48ac-a48d-14c4c4cadb07)
